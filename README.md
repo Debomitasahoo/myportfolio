@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 🚀 Live Demo
 🌐 Visit My Portfolio 
-()
+https://debomitasahoo.github.io/myportfolio/
 
 
 
@@ -48,7 +48,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Debomitasahoo/your-repo-name.git
+   git clone https://github.com/Debomitasahoo/myportfolio.git
 
 2. Navigate to the project folder:
 cd your-repo-name
